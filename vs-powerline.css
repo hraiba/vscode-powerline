@@ -1,7 +1,7 @@
 
 /* Themes */
 /* tokyo */
-body {
+/* body {
     --powerline-mode-fg: #1a1b26;
     --powerline-normal-bg: #bb9af7;
     --powerline-insert-bg: #9ece6a;
@@ -15,7 +15,7 @@ body {
     --powerline-separator: #bb9af7;
     --powerline-vim-command-line: #7dcfff;
     --powerline-mode-weight: bold;
-}
+} */
 
 /* monokai pro */
 /* body { */
@@ -33,6 +33,55 @@ body {
 /*     --powerline-vim-command-line: #7dcfff; */
 /*     --powerline-mode-weight: bold; */
 /* } */
+/*night owl */
+/* body {
+  --powerline-normal-bg:   #011627;
+  --powerline-insert-bg:   #7FDBCA;
+  --powerline-visual-bg:   #C792EA;
+  --powerline-replace-bg:  #F78C6C;
+  --powerline-mode-fg:           #D6DEEB; 
+  --powerline-inner-bg:          #1D3B53; 
+  --powerline-inner-bg-hl:       #637777; 
+  --powerline-second-segment-fg: #ADDB67; 
+  --powerline-second-segment-bg: #80A4C2; 
+  --powerline-separator:         #011627; 
+  --powerline-vim-command-line:  #ECC48D; 
+  --powerline-mode-weight: bold;
+} */
+
+/* 
+body {
+    --powerline-mode-fg: #ffffff;
+    --powerline-normal-bg: #6699cc;
+    --powerline-insert-bg: #99c794;
+    --powerline-replace-bg: #ec5f67;
+    --powerline-visual-bg: #c594c5;
+    --powerline-inner-fg: #d8dee9;
+    --powerline-inner-bg: #4f5b66;
+    --powerline-inner-bg-hl: #343d46;
+    --powerline-second-segment-fg: #d8dee9;
+    --powerline-second-segment-bg: #65737e;
+    --powerline-separator: #6699cc;
+    --powerline-vim-command-line: #5fb3b3;
+    --powerline-mode-weight: bold;
+} */
+
+ /* Gruvbox */
+body {
+    --powerline-mode-fg: #1d2021;
+    --powerline-normal-bg: #b16286;
+    --powerline-insert-bg: #98971a;
+    --powerline-replace-bg: #cc241d;
+    --powerline-visual-bg: #458588;
+    --powerline-inner-fg: #ebdbb2;
+    --powerline-inner-bg: #3c3836;
+    --powerline-inner-bg-hl: #1d2021;
+    --powerline-second-segment-fg: #ebdbb2;
+    --powerline-second-segment-bg: #32302f;
+    --powerline-separator: #b16286;
+    --powerline-vim-command-line: #d79921;
+    --powerline-mode-weight: bold;
+}
 
 .statusbar-item {
     font-family: 'Monaspace Krypton Frozen,', 'Fira Code', 'JetBrains Mono', 'MesloLGS NF', monospace !important;
